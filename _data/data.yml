@@ -176,6 +176,9 @@ skills:
       - name: HTML5 & CSS
         level: 60%
         
+      - name: PHP
+        level: 65%
+        
       - name: Javascript & jQuery
         level: 60%
 
