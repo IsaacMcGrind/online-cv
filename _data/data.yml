@@ -84,17 +84,22 @@ experiences:
       details: |
         I oversaw Marketing and IT, basically maintaining Olienhout’s page under the University of Pretoria website, Instagram, Facebook, and the internal marketing for social events at the residence. I had quite a good training under University of Pretoria.
 projects:
-    title: Tshwane Hub Donate Functionality
+    title: Projects
     intro: >
-      This is an on going project were I have to create a donate button that will lead to a landing page which will allow the donor to fill in his details and be able to donate using his/her credit card.
+      
     assignments:
       - title: Books Connectz
         link: "#hook"
-        tagline: "A responsive website template designed to help Students promote, market and sell their books."
+        tagline: "A responsive website template designed to help Students promote, market and sell their books. Currently down for ubdates"
 
       - title: BA3 Group
         link: "#"
         tagline: "A responsive website template designed to help BA3 Group management market their services."
+
+      - title: Tshwane Hub Donate Functionality
+        link: "#"
+        tagline: "This is an on going project were I have to create a donate button that will lead to a landing page which will allow the donor to fill in his details and be able to donate using his/her credit card details."
+    
 
 skills:
     title: Skills &amp; Proficiency
