@@ -78,43 +78,23 @@ experiences:
           - making videos 
           - posters
           - promoting 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Marketing & IT
+      time: 2017 - 2018
+      company: University of Pretoria, Tuks Ekhaya (House Committee)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I oversaw Marketing and IT, basically maintaining Olienhout’s page under the University of Pretoria website, Instagram, Facebook, and the internal marketing for social events at the residence. I had quite a good training under University of Pretoria.
 projects:
-    title: Projects
+    title: Tshwane Hub Donate Functionality
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is an on going project were I have to create a donate button that will lead to a landing page which will allow the donor to fill in his details and be able to donate using his/her credit card.
     assignments:
-      - title: Velocity
+      - title: Books Connectz
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help Students promote, market and sell their books."
 
-      - title: DevStudio
+      - title: BA3 Group
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive website template designed to help BA3 Group management market their services."
 
 skills:
     title: Skills &amp; Proficiency
@@ -136,4 +116,4 @@ skills:
         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Resume designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Isaac McGrind</a>
