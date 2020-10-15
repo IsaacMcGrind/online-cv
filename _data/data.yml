@@ -8,18 +8,16 @@ sidebar:
 
     # Profile information
     name: Thembinkosi Mtsweni
-    tagline: Creative Entrepreneur
+    tagline: BSc Computer Science Student
     avatar: pictur.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: isaac.mcgrind@gmail.com
+    email: isaac.mcgrind@gmail.com, thembinkosis92@gmail.com, u16205457@tuks.co.za
     phone: 0672501830
     website: github.com/isaacmcgrind #do not add http://
     linkedin: IsaacMcGrind
     github: IsaacMcGrind
     gitlab:
-    instagram: '@babyboygrownup'
-    twitter: '@babyboygrownup'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
