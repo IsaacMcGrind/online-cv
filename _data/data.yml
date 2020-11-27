@@ -12,10 +12,10 @@ sidebar:
     avatar: pictur.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: isaac.mcgrind@gmail.com, thembinkosis92@gmail.com, u16205457@tuks.co.za
+    email: isc.mtsweni@gmail.com.
     phone: 0672501830
     website: github.com/isaacmcgrind #do not add http://
-    linkedin: IsaacMcGrind
+    linkedin:
     github: IsaacMcGrind
     gitlab:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -29,7 +29,7 @@ sidebar:
       - idiom: Zulu
         level: Professional
         
-      - idiom: Swati
+      - idiom: IsiSwati
         level: Native
 
       - idiom: Southern Sotho
@@ -42,14 +42,14 @@ sidebar:
       - item: Soccer
         link:
 
-      - item: Skating
+      - item: Skate Boarding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       I am Student, who’s working on a BSc Computer Sciences degree looking to fill a position that can allow me to maximize my Computing, Programming & Corporate management skills, a position that will allow me to gain more skills and expertise in the Technological world and Society as a whole.
-      For the past 3 years I have been working on my leadership and marketing skills.  I strive to be on top notch in everything I do, indulgent and diligent I am.
+      For the past 3 years I have been working on my leadership, marketing and programming skills.  Indulgent and diligent I am.
 education:
     - degree: BSc in Computer Science
       university: University of Pretoria
@@ -112,6 +112,9 @@ skills:
       - name: PHP
         level: 65%
         
+      - name: Angular
+        level: 75%
+        
       - name: Javascript & jQuery
         level: 60%
 
@@ -119,4 +122,4 @@ skills:
         level: 70%
 
 footer: >
-    Resume designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Isaac McGrind</a>
+    Resume edited with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Isaac</a>
